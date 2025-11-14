@@ -104,8 +104,7 @@ Goal: Showcase full pipeline skills – from data cleaning → modeling → depl
 ```
 🌐 Connect
 
-GitHub: [your-github-link]
+GitHub: https://github.com/SwayamKumar1
 
 Email: [swayamk270@gmail.com]
 # Churn-Predictor
-
